@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Measure"
+        android:id="@+id/bottomNavigationMeasureMenuId"
+        android:icon="@drawable/baseline_keyboard_voice_black_24"/>
+
+    <item android:title="Result"
+        android:id="@+id/bottomNavigationResultMenuId"
+        android:icon="@drawable/baseline_bar_chart_black_24"/>
+
+    <item android:title="Trend"
+        android:id="@+id/bottomNavigationTrendMenuId"
+        android:icon="@drawable/baseline_show_chart_black_24"/>
+
+    <item android:title="More"
+        android:id="@+id/bottomNavigationMoreMenuId"
+        android:icon="@drawable/baseline_more_horiz_black_24"/>
+
+</menu>
